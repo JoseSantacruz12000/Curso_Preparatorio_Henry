@@ -1,10 +1,10 @@
 function viajar(destino) {
     if(destino === 'Brasil') {
-             console.log('Gire a la izquierda');
+        console.log('Gire a la izquierda');
     } else if(destino === 'Argentina') {
-             console.log('Gire a la derecha');
+        console.log('Gire a la derecha');
     } else {
-             console.log('Nos perdimos');''
+        console.log('Nos perdimos');
     }
 };
   
